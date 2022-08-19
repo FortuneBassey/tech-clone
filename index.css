@@ -1,0 +1,3173 @@
+ 
+   
+@media(min-width:320px){
+    body{
+        font-family: PT Sans;
+      }
+      ul{
+          display: flex;
+      }
+      .list{
+          list-style: none;
+          position: relative;
+      }
+      .list:hover{
+          color: blue;
+          
+      }
+      span{
+          position: relative;
+      }
+
+      .get{
+          width: 92%;
+          height: 45px;
+          background-color: rgb(0, 132, 255);
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content:center;
+          
+          border-radius: 7px;
+        
+      }
+      
+      .get:hover{
+          color: white;
+          background-color: rgb(0, 55, 255);
+      }
+      .text1{
+          display: flex;
+          flex-direction: row;
+      }
+      .img1{
+          width: 30px;
+          height: 30px;
+          padding-left: 70px;
+          padding-right: 20px;
+      }
+      
+      
+      .list{
+          display: flex;
+          gap: 40px;
+          position: relative;
+          left: 25rem;
+          color: deepskyblue;
+      }
+      .navbar{
+          background:white;
+          
+          height: 60px;
+          width: 100%;
+          display: flex;
+          top: 0px;
+          right: 0px;
+      }
+      .java{
+        font-size: smaller;
+          display: flex;
+          flex-direction: column ;
+          background-image:  url(./image/bg.jpg);
+          color: white; 
+          height: 900px;
+          width: 100%;
+          border-style: solid;
+          position: relative;
+          right: 0px;
+          top: 0px;
+          left: 0px;
+      }
+      .info{
+          position: relative;
+          top: 60px;
+      }
+      .register{
+        font-size:0.8rem;
+      }
+      .form{
+          background-color: white;
+          position: relative;
+          color: black;
+          top: 55px;
+          padding: 30px;
+          border-color: red;
+          height: 370px;
+          margin-bottom: 20%;
+          width: 300px;
+          margin: auto;
+      }
+      .text2{
+          padding-left: 40px;
+          position: relative;
+          top: 40px;
+          font-size: larger;
+      }
+      .firstlast{
+    display: flex;
+    flex-direction: row;
+    
+}
+      .firstname{
+          height: 45px;
+          width: 90%;
+      }
+      .lastname{
+          height: 45px;
+          margin-bottom: 20px;
+          width: 90%;
+      }
+      .email{
+          width: 90%;
+          height: 45px;
+          margin-bottom: 20px
+      }
+      .phonenumber{
+        margin-bottom: 20px;
+          width: 90%;
+          height: 45px;
+      }
+      .allportrait{
+          background-color: rgba(222, 219, 219, 0.868);
+          height: 53pc;
+      }
+      .der{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      img.grupic {
+        width: 100%;
+    }
+      .portrait{
+          width: 100px;
+          height: 100px;
+          border-radius: 3rem;
+      }
+      .pics{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          
+          position: relative;
+          top: 40px;
+      }
+      .portrait1{
+          width: 100px;
+          height: 100px;
+          position: relative;
+          top:5rem;
+          display: flex;
+          align-content: center;
+         border-radius: 3rem;
+      }
+      .portrait1div{
+          display: flex;
+          justify-content: center;
+      }
+      .twotext{
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          top: 45px;
+          font-size: large;
+          justify-content: space-around;
+      }
+      .petertext{
+          text-align: center;
+      }
+      .josephtext{
+          text-align: center;
+      }
+      .rilwantext{
+          text-align: center;
+          position: relative;
+          top: 90px;
+      }
+
+      .board{
+          position: relative;
+          top: 80px;
+          width: 90px;
+          height: 90px;
+      }
+      .allwrite{
+        font-size: smaller;
+        margin-top: 36pc;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          position: relative;
+          top: 80px;
+          width: 100%;
+          text-align: center;
+      }
+.become{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.we{
+    padding: 15px;
+}
+.pictext{
+    font-size: small;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+      
+.group{
+    padding: 20px;
+    width: 310px;
+    height: 220px;
+}
+.get2{
+    width: 20%;
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    top: 34pc;
+    margin-left: 35px; 
+}
+.get2:hover{
+    background-color: mediumblue;
+        
+      }
+.student{
+    position: relative;
+    top: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.stun{
+    font-size: x-small;
+}
+      .studentwork{
+    position: relative;
+    top: 18pc;
+    width: 300px;
+    height: 120px;
+          
+      }
+
+      .studentworkdiv{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+      }
+      .line1{
+          padding-left: 15px;
+          padding-right: 10px;
+          position: relative;
+          top: 19pc;
+      }
+      
+      .line2{
+          display: flex;
+          position: relative;
+          padding-left: 15px;
+          padding-right: 10px;
+          top: 19pc;
+          flex-direction: column;
+          ;
+      }
+.head{
+    font-size: small;
+}
+      .page1{
+        font-size: x-small;
+          display: flex;
+          flex-direction: row;
+      }
+      .btn{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+          align-items: center;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn:hover{
+         background-color: darkblue;
+      }
+      .state{
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+.studio{
+    position: relative;
+    padding-left: 40px;
+    width: 300px;
+    height: 200px;
+}
+.statetext{
+    
+    background-color: white;
+    position: relative;
+    padding: 20px;
+    align-self: center;
+    top: 30px;
+    width: 17rem;
+    border-radius: 4px;
+    font-size: small;
+    height: 450px;
+}
+      .stateof{
+          background-color: rgb(226, 229, 232);
+          position: relative;
+          top: 20pc;
+          height: 800px;
+      }
+      .stateoftheart{
+        display: flex;
+        flex-direction: column;
+      }
+      .sometext{
+          position: relative;
+          background-color: white;
+          box-shadow: 25px;
+          bottom: 15pc;
+          left: 42pc;
+          width: 37%;
+          padding: 30px;
+          border-radius: 6px;
+          box-shadow: 10px 15px 5px #ccc;
+      }
+.wchoose{
+    margin-top: 26pc;
+}
+.www{
+    display: flex;
+    text-align: center;
+}
+      .whychoose{
+    position: relative;
+   
+    display: flex;
+    flex-direction: column;
+      }
+.grupic{
+    align-content: center;
+    width: 200px;
+    height: 170px;
+}
+      .listof{
+          display: flex;
+          flex-direction: column;
+      }
+      .anotext{
+          padding: 20px;
+      }
+      .careersupport{
+        position: relative;
+        margin-top: 4pc;
+      }
+      
+      .careertext{
+        font-size: small;
+padding: 10px;
+          text-align: center;
+      }
+      .smile{
+        width: 300px;
+        height: 200px;
+          padding-left: 13px;
+          padding-top: 2pc;
+      }
+      .smilepic{
+          display: flex;
+          flex-direction: column;
+      }
+.gettext{
+    padding: 5px;
+    font-size: small;
+
+}
+      
+      .btn2{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+         align-items: center;
+          position: relative;
+          top: 20px;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn2:hover{
+         background-color: darkblue;
+      }
+      .btn3{
+          
+          color:dodgerblue;
+          background-color: white;
+         justify-content: center;
+         align-items: center;
+         display: flex;
+          position: relative;
+          width: 45%;
+          margin: auto;
+          height: 30px;
+          border-radius: 4px;
+          font-size: small;
+    
+      }
+      .btn3:hover{
+          background-color: darkblue;
+          color: white;
+      }
+      .reg{
+          display: flex;
+          text-align: center;
+          flex-direction: column;
+          background-color: dodgerblue;
+          width: 100%;
+          height: 170px;
+          /* justify-content: space-around; */
+          color: white;
+          position: relative;
+          top: 40px;
+      
+          margin: auto;
+      }
+      .te{
+    font-size: xx-small;
+    padding-top: 16px;
+      }
+      .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        /* top: 120px; */
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        /* top: 130px; */
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        /* top: 150px; */
+        height: 600px;
+        padding: 20px;
+    }
+    .line2a{
+        position: relative;
+        /* top: 160px; */
+        padding-top: 51pc;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+.bothq{
+    display: flex;
+    flex-direction: column;
+}
+    .get5{
+        font-weight: 100;
+        font-size: 1.5rem;
+        font-family: open san;
+    }
+    .lastlist{
+        display: flex;
+        flex-direction: column;
+    }
+    .last1{
+        font-size: smaller;
+        position: relative;
+        margin-top: 12pc;
+        background-color: rgb(52, 122, 212);
+        display: flex;
+        flex-direction: column;
+        height: 1350px;
+        width: 100%;
+    }
+    .lastline1{
+        font-size: x-small;
+        background-color: rgba(255, 255, 255, 0.943);
+        width: 90%;
+        color: rgba(0, 0, 0, 0.801);
+        padding-top: 30px;
+        /* padding-bottom: 40px; */
+        height: 600px;
+        padding-right: 20px;
+        position: relative;
+        left: 20px;
+        top: 90px;
+        padding-left: 30px;
+        
+    }
+    .lastline2{
+        margin-top: 40px;
+        color: rgba(255, 255, 255, 0.97);
+        width: 92%;
+        height: 550px;
+        background-color:rgb(243, 64, 64);
+        padding-left: 40px;
+        position: relative;
+        left: 10px;
+        top: 90px;
+        margin-bottom: 40px;
+        padding-top: 30px;
+    }
+    .nat{
+        font-size: 1.5rem;
+    }
+    .nattext{
+        font-size: 0.8rem;
+    }
+    .start{
+        background-color: rgb(0, 55, 255);
+        color: white;
+        width: 60%;
+        height: 40px;
+        
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 7px;
+    }
+.lastthing{
+    font-size: 0.6rem;
+    position: relative;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+}
+    .log{
+    width: 60px;
+    height: 30px;
+    padding-left: 30px;
+    /* position: relative;
+    top: 50px;
+    right: 5px;
+     */
+    }
+    .tech{
+        color: white;
+        /* padding-top: 50px; */
+        font-size: 1rem;
+    }
+.first2{
+     position: relative;
+    top: 250px;  
+    font-size: large;
+    /*left: 120px;   */
+}
+    .first{
+        display: flex;
+        flex-direction: row;
+    justify-content: center;
+    }
+    .why{
+        color: white;
+        /* padding-left: 40px; */
+    }
+    .row2{
+        position: relative;
+        color: white; 
+         top: 0pc;
+         display: flex;
+         flex-direction: column;
+         gap: 10px;
+       
+    }
+    .in1{
+        border-radius: 4px;
+        width: 12rem;
+        height: 50px;
+    }
+    .submit{
+        background-color: rgb(82, 134, 232);
+        color: white;
+        width: 12rem;
+        height: 50px;
+       display: flex; 
+        /* margin-top: 15px; */
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+    }
+    .submit:hover{
+        background-color: darkblue;
+    }
+    .w3{
+    /* padding-top:33px ; */
+    font-size: 1rem;
+    
+    }
+    .social{
+    color: black;
+    position: relative;
+    font-size: 0.8rem;
+    }
+    .row3{
+     position: relative;
+    bottom: 14pc; 
+    text-align: center;
+}
+.icons{
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+    .insta{
+        width: 27px;
+        height: 27px;
+    }
+    .face{
+        width: 27px;
+        height: 27px;
+    }
+    .twit{
+        width: 27px;
+        height: 27px;
+    }
+    
+}
+@media(min-width:425px){
+    body{
+        font-family: PT Sans;
+      }
+      ul{
+          display: flex;
+      }
+      .list{
+          list-style: none;
+          position: relative;
+          top: 0px;
+      }
+      .list:hover{
+          color: blue;
+          
+      }
+      span{
+          position: relative;
+      }
+
+      .get{
+          width: 92%;
+          height: 45px;
+          background-color: rgb(0, 132, 255);
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content:center;
+          
+          border-radius: 7px;
+        
+      }
+      
+      .get:hover{
+          color: white;
+          background-color: rgb(0, 55, 255);
+      }
+      .text1{
+          display: flex;
+          flex-direction: row;
+      }
+      .img1{
+          width: 30px;
+          height: 30px;
+          padding-left: 70px;
+          padding-right: 20px;
+      }
+      
+      
+      .list{
+          display: flex;
+          gap: 40px;
+          position: relative;
+          left: 25rem;
+          color: deepskyblue;
+      }
+      .navbar{
+          background:white;
+          
+          height: 60px;
+          width: 100%;
+          display: flex;
+          top: 0px;
+          right: 0px;
+      }
+      .java{
+        font-size: large;
+          display: flex;
+          flex-direction: column ;
+          background-image:  url(./image/bg.jpg);
+          color: white; 
+          height: 900px;
+          width: 100%;
+          border-style: solid;
+          position: relative;
+          right: 0px;
+          top: 0px;
+          left: 0px;
+      }
+      .info{
+          position: relative;
+          top: 60px;
+      }
+      .register{
+        font-size:1rem;
+      }
+      .form{
+          background-color: white;
+          position: relative;
+          color: black;
+          top: 55px;
+          padding: 30px;
+          border-color: red;
+          height: 370px;
+          margin-bottom: 20%;
+          width: 350px;
+          margin: auto;
+      }
+      .text2{
+          padding-left: 40px;
+          position: relative;
+          top: 40px;
+          font-size: larger;
+      }
+      .firstlast{
+    display: flex;
+    flex-direction: row;
+    
+}
+      .firstname{
+          height: 45px;
+          width: 90%;
+      }
+      .lastname{
+          height: 45px;
+          margin-bottom: 20px;
+          width: 90%;
+      }
+      .email{
+          width: 90%;
+          height: 45px;
+          margin-bottom: 20px
+      }
+      .phonenumber{
+        margin-bottom: 20px;
+          width: 90%;
+          height: 45px;
+      }
+      .allportrait{
+          background-color: rgba(222, 219, 219, 0.868);
+          height: 53pc;
+      }
+      .der{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      img.grupic {
+        width: 100%;
+    }
+      .portrait{
+          width: 100px;
+          height: 100px;
+          border-radius: 3rem;
+      }
+      .pics{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          
+          position: relative;
+          top: 40px;
+      }
+      .portrait1{
+          width: 100px;
+          height: 100px;
+          position: relative;
+          top:5rem;
+          display: flex;
+          align-content: center;
+         border-radius: 3rem;
+      }
+      .portrait1div{
+          display: flex;
+          justify-content: center;
+      }
+      .twotext{
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          top: 45px;
+          font-size: large;
+          justify-content: space-around;
+      }
+.petertext{
+    text-align: center;
+    font-size: smaller;
+}
+.josephtext{
+    text-align: center;
+    font-size: smaller;
+}
+.rilwantext{
+    text-align: center;
+    position: relative;
+    top: 90px;
+    font-size: smaller;
+
+}
+
+      .board{
+          position: relative;
+          top: 80px;
+          width: 90px;
+          height: 90px;
+      }
+      .allwrite{
+        font-size: smaller;
+        margin-top : 2pc;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          position: relative;
+          top: 80px;
+          width: 100%;
+          text-align: center;
+      }
+.become{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.we{
+    padding: 15px;
+}
+.pictext{
+    font-size: small;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+.mytext{
+    font-size:1rem;
+}
+.group{
+    padding: 20px;
+    width: 430px;
+    height: 250px;
+}
+.get2{
+    width: 20%;
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    top: 34pc;
+    margin-left: 35px; 
+}
+.get2:hover{
+    background-color: mediumblue;
+        
+      }
+.student{
+    position: relative;
+    top: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.studentwork{
+    position: relative;
+    top: 18pc;
+    width: 300px;
+    height: 120px;
+          
+}
+.studentworkdiv{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.stun{
+    font-size: smaller;
+}
+.line1{
+    padding-left: 15px;
+    padding-right: 10px;
+    position: relative;
+    top: 19pc;
+}
+      
+      .line2{
+          display: flex;
+          position: relative;
+          padding-left: 15px;
+          padding-right: 10px;
+          top: 19pc;
+          flex-direction: column;
+          ;
+      }
+.head{
+    font-size: small;
+}
+      .page1{
+        font-size: x-small;
+          display: flex;
+          flex-direction: row;
+      }
+      .btn{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+          align-items: center;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn:hover{
+         background-color: darkblue;
+      }
+      .state{
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+.studio{
+    position: relative;
+    width: 400px;
+    height: 250px;
+}
+.statetext{
+    
+    background-color: white;
+    position: relative;
+    padding: 20px;
+    align-self: center;
+    top: 30px;
+    /* width: 20rem; */
+    border-radius: 4px;
+    font-size: small;
+    height: 450px;
+}
+      .stateof{
+          background-color: rgb(226, 229, 232);
+          position: relative;
+          top: 20pc;
+          height: 800px;
+      }
+      .stateoftheart{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .sometext{
+          position: relative;
+          background-color: white;
+          box-shadow: 25px;
+          bottom: 15pc;
+          left: 42pc;
+          width: 37%;
+          padding: 30px;
+          border-radius: 6px;
+          box-shadow: 10px 15px 5px #ccc;
+      }
+.wchoose{
+    margin-top: 26pc;
+}
+.www{
+    display: flex;
+    text-align: center;
+}
+      .whychoose{
+    position: relative;
+   
+    display: flex;
+    flex-direction: column;
+      }
+.grupic{
+    align-content: center;
+    width: 150px;
+    height: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+      .listof{
+          display: flex;
+          flex-direction: column;
+      }
+      .anotext{
+          padding: 20px;
+      }
+      .careersupport{
+        position: relative;
+        margin-top: 4pc;
+      }
+      
+      .careertext{
+        font-size: small;
+padding: 10px;
+          text-align: center;
+      }
+      .smile{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    padding-top: 2pc;
+}
+.ad{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.smilepic{
+    display: flex;
+    flex-direction: column;
+}
+.gettext{
+    padding: 5px;
+    font-size: small;
+
+}
+      
+      .btn2{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+         align-items: center;
+          position: relative;
+          top: 20px;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn2:hover{
+         background-color: darkblue;
+      }
+      .btn3{
+          
+          color:dodgerblue;
+          background-color: white;
+         justify-content: center;
+         align-items: center;
+         display: flex;
+          position: relative;
+          width: 45%;
+          margin: auto;
+          height: 30px;
+          border-radius: 4px;
+          font-size: small;
+    
+      }
+      .btn3:hover{
+          background-color: darkblue;
+          color: white;
+      }
+      .reg{
+          display: flex;
+          text-align: center;
+          flex-direction: column;
+          background-color: dodgerblue;
+          width: 100%;
+          height: 170px;
+          /* justify-content: space-around; */
+          color: white;
+          position: relative;
+          top: 40px;
+      
+          margin: auto;
+      }
+      .te{
+    font-size: xx-small;
+    padding-top: 16px;
+      }
+      .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        /* top: 120px; */
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        /* top: 130px; */
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        /* top: 150px; */
+        height: 600px;
+        padding: 20px;
+    }
+    .line2a{
+        position: relative;
+        /* top: 160px; */
+        padding: 10px;
+        padding-top: 34pc;
+        /* margin-top: 50pc; */
+    }
+    .bothq{
+
+        display: flex;
+        flex-direction: column;
+    }
+    .get5{
+        font-weight: 100;
+        font-size: 2.5rem;
+        font-family:'Open Sans';
+    }
+    .lastlist{
+        display: flex;
+        flex-direction: column;
+    }
+    .last1{
+        font-size: smaller;
+        position: relative;
+        margin-top: 27pc;
+        background-color: rgb(52, 122, 212);
+        display: flex;
+        flex-direction: column;
+        height: 1400px;
+        width: 100%;
+    }
+    .lastline1{
+        font-size: 1rem;
+        background-color: rgba(255, 255, 255, 0.943);
+        width: 90%;
+        color: rgba(0, 0, 0, 0.801);
+        padding-top: 30px;
+        padding-bottom: 1px;
+        height: 650px;
+        padding-right: 20px;
+        position: relative;
+        left: 20px;
+        top: 90px;
+        padding-left: 30px;
+        
+    }
+    .lastline2{
+        margin-top: 40px;
+        color: rgba(255, 255, 255, 0.97);
+        width: 92%;
+        height: 550px;
+        background-color:rgb(243, 64, 64);
+        padding-left: 40px;
+        position: relative;
+        left: 10px;
+        top: 90px;
+        margin-bottom: 40px;
+        padding-top: 30px;
+    }
+    .nat{
+        font-size: 1.5rem;
+    }
+    .nattext{
+        font-size: 0.8rem;
+    }
+    .start{
+        background-color: rgb(0, 55, 255);
+        color: white;
+        width: 60%;
+        height: 40px;
+        
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 7px;
+    }
+.lastthing{
+    font-size: 0.6rem;
+    position: relative;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+}
+    .log{
+    width: 60px;
+    height: 30px;
+    padding-left: 30px;
+    /* position: relative;
+    top: 50px;
+    right: 5px;
+     */
+    }
+    .tech{
+        color: white;
+        /* padding-top: 50px; */
+        font-size: 1rem;
+    }
+.first2{
+     position: relative;
+    top: 250px;  
+    font-size: large;
+    /*left: 120px;   */
+}
+    .first{
+        display: flex;
+        flex-direction: row;
+    justify-content: center;
+    }
+    .why{
+        color: white;
+        /* padding-left: 40px; */
+    }
+    .row2{
+        position: relative;
+        color: white; 
+         top: 0pc;
+         display: flex;
+         flex-direction: column;
+         gap: 10px;
+       
+    }
+    .in1{
+        border-radius: 4px;
+        width: 12rem;
+        height: 50px;
+    }
+    .submit{
+        background-color: rgb(82, 134, 232);
+        color: white;
+        width: 12rem;
+        height: 50px;
+       display: flex; 
+        /* margin-top: 15px; */
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+    }
+    .submit:hover{
+        background-color: darkblue;
+    }
+    .w3{
+    /* padding-top:33px ; */
+    font-size: 1rem;
+    
+    }
+    .social{
+    color: black;
+    position: relative;
+    font-size: 0.8rem;
+    }
+    .row3{
+     position: relative;
+    bottom: 14pc; 
+    text-align: center;
+}
+.icons{
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+    .insta{
+        width: 27px;
+        height: 27px;
+    }
+    .face{
+        width: 27px;
+        height: 27px;
+    }
+    .twit{
+        width: 27px;
+        height: 27px;
+    }
+    
+}
+@media(min-width:768px){
+    body{
+        font-family: PT Sans;
+      }
+      ul{
+          display: flex;
+}
+      .list{
+          list-style: none;
+          position: relative;
+          top: 0px;
+      }
+      .list:hover{
+          color: blue;
+          
+      }
+      span{
+          position: relative;
+      }
+
+      .get{
+          width: 92%;
+          height: 45px;
+          background-color: rgb(0, 132, 255);
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content:center;
+          
+          border-radius: 7px;
+        
+      }
+      
+      .get:hover{
+          color: white;
+          background-color: rgb(0, 55, 255);
+      }
+      .text1{
+          display: flex;
+          flex-direction: row;
+      }
+      .img1{
+          width: 30px;
+          height: 30px;
+          padding-left: 70px;
+          padding-right: 20px;
+      }
+      
+      
+      .list{
+          display: flex;
+          gap: 40px;
+          position: relative;
+          left: 25rem;
+          color: deepskyblue;
+      }
+      .navbar{
+          background:white;
+          
+          height: 60px;
+          width: 100%;
+          display: flex;
+          top: 0px;
+          right: 0px;
+      }
+      .java{
+          display: flex;
+          flex-direction: row;
+          background-image:  url(./image/bg.jpg);
+          color: white; 
+          height: 500px;
+          width: 100%;
+          border-style: solid;
+          position: relative;
+          right: 0px;
+          top: 0px;
+          left: 0px;
+          font-size: smaller;
+      }
+      .info{
+          position: relative;
+          top: 60px;
+      }
+      .register{
+        font-size:0.8rem;
+      }
+      .form{
+          background-color: white;
+          position: relative;
+          right: 2pc;
+          color: black;
+          top: 55px;
+          padding: 30px;
+          border-color: red;
+          height: 350px;
+          margin-bottom: 20%;
+          width: 30%;
+      }
+      .text2{
+          padding-left: 40px;
+          position: relative;
+          top: 40px;
+          font-size: larger;
+      }
+      .firstlast{
+          display: flex;
+          flex-direction: row;
+      }
+      .firstname{
+          height: 45px;
+          width: 42%;
+      }
+      .lastname{
+          height: 45px;
+          margin-bottom: 20px;
+          width: 45%;
+      }
+      .email{
+          width: 90%;
+          height: 45px;
+          margin-bottom: 20px
+      }
+      .phonenumber{
+        margin-bottom: 20px;
+          width: 90%;
+          height: 45px;
+      }
+      .allportrait{
+          background-color: rgba(222, 219, 219, 0.868);
+          height: 53pc;
+      }
+      .der{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+     
+      .portrait{
+          width: 100px;
+          height: 100px;
+          border-radius: 3rem;
+      }
+      .pics{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          
+          position: relative;
+          top: 40px;
+      }
+      .portrait1{
+          width: 100px;
+          height: 100px;
+          position: relative;
+          top:5rem;
+          display: flex;
+          align-content: center;
+         border-radius: 3rem;
+      }
+      .portrait1div{
+          display: flex;
+          justify-content: center;
+      }
+      .twotext{
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          top: 45px;
+          font-size: large;
+          justify-content: space-around;
+      }
+      .petertext{
+          text-align: center;
+      }
+      .josephtext{
+          text-align: center;
+      }
+      .rilwantext{
+          text-align: center;
+          position: relative;
+          top: 90px;
+      }
+      .imgthings{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+      }
+      .board{
+          position: relative;
+          top: 80px;
+      }
+      .allwrite{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          position: relative;
+          top: 80px;
+          width: 100%;
+          text-align: center;
+      }
+      .become{
+          text-align: center;
+          position: relative;
+          top: 150px;
+      }
+.pictext{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+.we{
+    font-size: smaller;
+}  
+.group{
+    width: 400px;
+    height: 300px;
+}
+.get2{
+    width: 20%;
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    top: 34pc;
+    margin-left: 35px; 
+}
+.get2:hover{
+    background-color: mediumblue;
+        
+      }
+.student{
+    position: relative;
+    top: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+      .studentwork{
+          position: relative;
+          top: 18pc;
+          
+      }
+      .studentworkdiv{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+      }
+      .line1{
+          padding-left: 40px;
+          position: relative;
+          top: 19pc;
+      }
+      
+      .line2{
+          display: flex;
+          position: relative;
+          padding-left: 50px;
+          top: 19pc;
+          flex-direction: column;
+          ;
+      }
+      .page1{
+          display: flex;
+          flex-direction: row;
+      }
+      .btn{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+          align-items: center;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn:hover{
+         background-color: darkblue;
+      }
+      /* .state{
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+.studio{
+    position: relative;
+    padding-left: 40px;
+    width: 700px;
+    height: 550px;
+}
+.statetext{
+    background-color: white;
+    position: relative;
+    padding: 25px;
+    top: 70px;
+    right: 12pc;
+    border-radius: 4px;
+    height: 520px;
+
+}
+      .stateof{
+          background-color: rgb(226, 229, 232);
+          position: relative;
+          top: 20pc;
+      }
+      .stateoftheart{
+        display: flex;
+        flex-direction: row;
+      } */
+      .state{
+        display: flex;
+        justify-content: center;
+        position: relative;
+    }
+.studio{
+  position: relative;
+  padding-left: 40px;
+  width: 500px;
+  height: 450px;
+}
+.statetext{
+  
+  background-color: white;
+  position: relative;
+  padding: 20px;
+  align-self: center;
+  top: 30px;
+  width: 17rem;
+  border-radius: 4px;
+  font-size: small;
+  height: 450px;
+  right: 5pc;
+}
+    .stateof{
+        background-color: rgb(226, 229, 232);
+        position: relative;
+        top: 20pc;
+        height: 800px;
+    }
+    .stateoftheart{
+      display: flex;
+      flex-direction: row;
+    }
+      .sometext{
+          position: relative;
+          background-color: white;
+          box-shadow: 25px;
+          bottom: 15pc;
+          left: 42pc;
+          width: 37%;
+          padding: 30px;
+          border-radius: 6px;
+          box-shadow: 10px 15px 5px #ccc;
+      }
+      .whychoose{
+        position: relative;
+          padding-left: 40px;
+          display: flex;
+          flex-direction: row;
+      }
+      .listof{
+          display: flex;
+          flex-direction: column;
+      }
+      img.grupic {
+        width: 250px;
+        height: 300px;
+    }
+      .anotext{
+          padding: 10px;
+          font-size: x-small;
+      }
+      .careersupport{
+        position: relative;
+
+    }
+      .careertext{
+          text-align: center;
+      }
+      .smile{
+        width: 400px;
+        height: 350px;
+          padding-left: 3pc;
+          padding-top: 2pc;
+      }
+      .smilepic{
+          display: flex;
+          flex-direction: row;
+      }
+.gettext{
+    padding: 2pc;
+}
+      
+      .btn2{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+         align-items: center;
+          position: relative;
+          top: 20px;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn2:hover{
+         background-color: darkblue;
+      }
+      .btn3{
+          
+          color:dodgerblue;
+          background-color: white;
+         justify-content: center;
+         align-items: center;
+         display: flex;
+          position: relative;
+          top: 50px;
+          width: 35%;
+          height: 40px;
+          border-radius: 4px;
+          font-size: large;
+    
+      }
+      .btn3:hover{
+          background-color: darkblue;
+          color: white;
+      }
+      .reg{
+          display: flex;
+          flex-direction: row;
+          background-color: dodgerblue;
+          width: 60%;
+          height: 150px;
+          border-radius: 8px;
+          justify-content: space-around;
+          color: white;
+          position: relative;
+          top: 40px;
+      
+          margin: auto;
+      }
+      .te{
+          padding-top: 16px;
+      }
+      /* .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        top: 120px;
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        top: 130px;
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        top: 150px;
+        height: 600px;
+        padding: 30px;
+    }
+    .line2a{
+        position: relative;
+        top: 160px;
+        padding: 20px;
+    }
+    .bothq{
+        display: flex;
+        flex-direction: row;
+    } */
+    .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        /* top: 120px; */
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        /* top: 130px; */
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        /* top: 150px; */
+        height: 600px;
+        padding: 5px;
+       
+    }
+    .line2a{
+        position: relative;
+        padding: 5px;
+       
+        position: relative;
+        
+    }
+    .bothq{
+
+        display: flex;
+        flex-direction: row;
+    }
+    .get5{
+        font-weight: 100;
+        font-size: 1.8rem;
+        font-family: open san;
+    }
+    .lastlist{
+        display: flex;
+        flex-direction: column;
+    }
+    .last1{
+        position: relative;
+        margin-top: 34pc;
+        background-color: rgb(52, 122, 212);
+        display: flex;
+        flex-direction: row;
+        height: 800px;
+        width: 100%;
+    }
+    .lastline1{
+        background-color: rgba(255, 255, 255, 0.943);
+        width: 54%;
+        
+        color: rgba(0, 0, 0, 0.801);
+        padding-top: 30px;
+        padding-bottom: 40px;
+        height: 620px;
+        position: relative;
+        left: 20px;
+        top: 90px;
+        padding-left: 40px;
+        
+    }
+    .lastline2{
+        color: rgba(255, 255, 255, 0.97);
+        width: 35%;
+        height: 620px;
+        background-color:rgb(243, 64, 64);
+        padding-left: 40px;
+        position: relative;
+        left: 50px;
+        top: 50px;
+    }
+    .nat{
+        font-size: 1.5rem;
+    }
+    .nattext{
+        font-size: 1rem;
+    }
+    .start{
+        background-color: rgb(0, 55, 255);
+        color: white;
+        width: 60%;
+        height: 40px;
+        
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 7px;
+    }
+    .lastthing{
+        position: relative;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        flex-direction: row;
+        height: 270px;
+        gap: 1pc;
+    }
+    .log{
+        width: 80px;
+        height: 40px;
+    }
+    .tech{
+        color: white;
+        font-size: 1.37rem;
+    }
+    .first{
+        display: flex;
+        flex-direction: row;
+    }
+    .first2{
+    position: relative;
+    margin-bottom: 30pc;
+    width: 20%;
+    
+    }
+    .why{
+        color: white;
+        /* padding-left: 99px; */
+    }
+    .row2{
+        color: white;
+        /* padding-left: 50px; */
+    }
+    .in1{
+        border-radius: 4px;
+        width: 25rem;
+        height: 50px;
+    }
+    .submit{
+        background-color: blue;
+        color: white;
+        width: 25.2rem;
+        height: 50px;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+    }
+    .submit:hover{
+        background-color: darkblue;
+    }
+    .w3{
+        padding-top:33px ;
+    }
+    .social{
+        color: white;
+        padding-top: 33px;
+        
+    }
+    .row3{
+    padding-left: 40px;
+    margin-top: 20pc;    
+}
+    .insta{
+        width: 30px;
+        height: 30px;
+    }
+    .face{
+        width: 30px;
+        height: 30px;
+    }
+    .twit{
+        width: 30px;
+        height: 30px;
+    }
+}
+@media(min-width:1280px){
+     body{
+        font-family: PT Sans;
+      }
+      ul{
+          display: flex;
+      }
+      .list{
+          list-style: none;
+          position: relative;
+          top: 0px;
+          gap: 20px;
+      }
+      .list:hover{
+          color: blue;
+          
+      }
+/* .navbarnavbar{
+    position: relative;
+    width: 100%;
+    color: black;
+} */
+      span{
+          position: relative;
+          /* top: 20px; */
+          /* right: 140px; */
+      }
+
+      .get{
+          width: 92%;
+          height: 45px;
+          background-color: rgb(0, 132, 255);
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content:center;
+          
+          border-radius: 7px;
+        
+      }
+      
+      .get:hover{
+          color: white;
+          background-color: rgb(0, 55, 255);
+      }
+      .text1{
+          display: flex;
+          flex-direction: row;
+      }
+      .img1{
+          width: 30px;
+          height: 30px;
+          padding-left: 70px;
+          padding-right: 20px;
+      }
+      
+      
+      .list{
+          display: flex;
+          gap: 40px;
+          position: relative;
+          left: 25rem;
+          color: deepskyblue;
+      }
+      .navbar{
+          background:white;
+          
+          height: 60px;
+          width: 100%;
+          display: flex;
+          top: 0px;
+          right: 0px;
+      }
+      .java{
+          display: flex;
+          flex-direction: row;
+          background-image:  url(./image/bg.jpg);
+          color: white; 
+          height: 500px;
+          width: 100%;
+          border-style: solid;
+          position: relative;
+          right: 0px;
+          top: 0px;
+          left: 0px;
+      }
+      .info{
+          position: relative;
+          top: 60px;
+      }
+      .register{
+        font-size:0.8rem;
+      }
+      .form{
+          background-color: white;
+          position: relative;
+          left: 3pc;
+          color: black;
+          top: 55px;
+          padding: 30px;
+          border-color: red;
+          height: 350px;
+          margin-bottom: 20%;
+          width: 30%;
+      }
+      .text2{
+          padding-left: 40px;
+          position: relative;
+          top: 40px;
+          font-size: larger;
+      }
+      .firstlast{
+          display: flex;
+          flex-direction: row;
+      }
+      .firstname{
+          height: 45px;
+          width: 42%;
+      }
+      .lastname{
+          height: 45px;
+          margin-bottom: 20px;
+          width: 45%;
+      }
+      .email{
+          width: 90%;
+          height: 45px;
+          margin-bottom: 20px
+      }
+      .phonenumber{
+        margin-bottom: 20px;
+          width: 90%;
+          height: 45px;
+      }
+      .allportrait{
+          background-color: rgba(222, 219, 219, 0.868);
+          height: 53pc;
+      }
+      .der{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      img.grupic {
+        width: 100%;
+    }
+      .portrait{
+          width: 100px;
+          height: 100px;
+          border-radius: 3rem;
+      }
+      .pics{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          
+          position: relative;
+          top: 40px;
+      }
+      .portrait1{
+          width: 100px;
+          height: 100px;
+          position: relative;
+          top:5rem;
+          display: flex;
+          align-content: center;
+         border-radius: 3rem;
+      }
+      .portrait1div{
+          display: flex;
+          justify-content: center;
+      }
+      .twotext{
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          top: 45px;
+          font-size: large;
+          justify-content: space-around;
+      }
+      .petertext{
+          text-align: center;
+      }
+      .josephtext{
+          text-align: center;
+      }
+      .rilwantext{
+          text-align: center;
+          position: relative;
+          top: 90px;
+      }
+      .imgthings{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+      }
+      .board{
+          position: relative;
+          top: 80px;
+      }
+      .allwrite{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          position: relative;
+          top: 80px;
+          width: 100%;
+          text-align: center;
+      }
+      .become{
+          text-align: center;
+          position: relative;
+          top: 150px;
+      }
+.pictext{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+.we{
+    font-size: large;
+}
+.group{
+    width: 600px;
+    height: 400px;
+}
+.get2{
+    width: 20%;
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    top: 34pc;
+    margin-left: 35px; 
+}
+.get2:hover{
+    background-color: mediumblue;
+        
+      }
+.student{
+    position: relative;
+    top: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+      .studentwork{
+          position: relative;
+          top: 18pc;
+          
+      }
+      .studentworkdiv{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+      }
+      .line1{
+          padding-left: 40px;
+          position: relative;
+          top: 19pc;
+          font-size: large;
+      }
+      
+  .line2{
+    display: flex;
+      position: relative;
+    padding-left: 50px;
+    /* top: 19pc; */
+    flex-direction: column;
+    font-size: large;
+}
+.head{
+    font-size: larger;
+}
+      .page1{
+          display: flex;
+          flex-direction: row;
+      }
+      .btn{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+          align-items: center;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn:hover{
+         background-color: darkblue;
+      }
+      .state{
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+.studio{
+    position: relative;
+    padding-left: 40px;
+    width: 900px;
+    height: 650px;
+}
+.statetext{
+    background-color: white;
+    position: relative;
+    padding: 25px;
+    top: 70px;
+    right: 15pc;
+    border-radius: 4px;
+    height: 520px;
+}
+      .stateof{
+          background-color: rgb(226, 229, 232);
+          position: relative;
+          top: 20pc;
+      }
+      .stateoftheart{
+        display: flex;
+        flex-direction: row;
+      }
+      .sometext{
+          position: relative;
+          background-color: white;
+          box-shadow: 25px;
+          bottom: 15pc;
+          left: 42pc;
+          width: 37%;
+          padding: 30px;
+          border-radius: 6px;
+          box-shadow: 10px 15px 5px #ccc;
+      }
+      .whychoose{
+        position: relative;
+          padding-left: 40px;
+          display: flex;
+          flex-direction: row;
+      }
+.grupic{
+    width: 500pc;
+    height: 500px;
+}
+      .listof{
+          display: flex;
+          flex-direction: column;
+      }
+      .anotext{
+          padding: 20px;
+      }
+      .careersupport{
+        position: relative;
+
+    }
+      .careertext{
+          text-align: center;
+      }
+      .smile{
+        width: 700px;
+        height: 550px;
+          padding-left: 3pc;
+          padding-top: 2pc;
+      }
+      .smilepic{
+          display: flex;
+          flex-direction: row;
+      }
+.gettext{
+    padding: 2pc;
+}
+      
+      .btn2{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+         align-items: center;
+          position: relative;
+          top: 20px;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn2:hover{
+         background-color: darkblue;
+      }
+      .btn3{
+          
+          color:dodgerblue;
+          background-color: white;
+         justify-content: center;
+         align-items: center;
+         display: flex;
+          position: relative;
+          top: 50px;
+          width: 35%;
+          height: 40px;
+          border-radius: 4px;
+          font-size: large;
+    
+      }
+      .btn3:hover{
+          background-color: darkblue;
+          color: white;
+      }
+      .reg{
+          display: flex;
+          flex-direction: row;
+          background-color: dodgerblue;
+          width: 60%;
+          height: 150px;
+          border-radius: 8px;
+          justify-content: space-around;
+          color: white;
+          position: relative;
+          top: 40px;
+      
+          margin: auto;
+      }
+      .te{
+          padding-top: 16px;
+      }
+      .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        /* top: 120px; */
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        /* top: 130px; */
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        /* top: 150px; */
+        height: 600px;
+        padding: 30px;
+    }
+    .line2a{
+        position: relative;
+        padding: 20px;
+    }
+    .bothq{
+        display: flex;
+        flex-direction: row;
+    }
+    .get5{
+        font-weight: 100;
+        font-size: 2.5rem;
+        font-family: open san;
+    }
+    .lastlist{
+        display: flex;
+        flex-direction: column;
+    }
+    .last1{
+        position: relative;
+        margin-top: 30pc;
+        background-color: rgb(52, 122, 212);
+        display: flex;
+        flex-direction: row;
+        height: 900px;
+        width: 100%;
+    }
+    .lastline1{
+        background-color: rgba(255, 255, 255, 0.943);
+        width: 43%;
+        color: rgba(0, 0, 0, 0.801);
+        padding-top: 30px;
+        padding-bottom: 40px;
+        height: 750px;
+        position: relative;
+        left: 90px;
+        top: 90px;
+        padding-left: 40px;
+        
+    }
+    .lastline2{
+        color: rgba(255, 255, 255, 0.97);
+        width: 30%;
+        height: 700px;
+        background-color:rgb(243, 64, 64);
+        padding-left: 40px;
+        position: relative;
+        left: 170px;
+        top: 90px;
+    }
+    .nat{
+        font-size: 1.5rem;
+    }
+    .nattext{
+        font-size: 1.06rem;
+    }
+    .start{
+        background-color: rgb(0, 55, 255);
+        color: white;
+        width: 60%;
+        height: 40px;
+        
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 7px;
+    }
+    .lastthing{
+        position: relative;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        flex-direction: row;
+        height: 270px;
+        gap: 10pc;
+    }
+    .log{
+        width: 80px;
+        height: 40px;
+    }
+    .tech{
+        color: white;
+        font-size: 1.37rem;
+    }
+    .first{
+        display: flex;
+        flex-direction: row;
+    }
+    .first2{
+    position: relative;
+    margin-bottom: 30pc;
+    width: 20%;
+    
+    }
+    .why{
+        color: white;
+        /* padding-left: 99px; */
+    }
+    .row2{
+        color: white;
+        /* padding-left: 50px; */
+    }
+    .in1{
+        border-radius: 4px;
+        width: 25rem;
+        height: 50px;
+    }
+    .submit{
+        background-color: blue;
+        color: white;
+        width: 25.2rem;
+        height: 50px;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+    }
+    .submit:hover{
+        background-color: darkblue;
+    }
+    .w3{
+        padding-top:33px ;
+    }
+    .social{
+        color: white;
+        padding-top: 33px;
+        
+    }
+    .row3{
+    padding-left: 40px;
+    margin-top: 20pc;    
+}
+    .insta{
+        width: 30px;
+        height: 30px;
+    }
+    .face{
+        width: 30px;
+        height: 30px;
+    }
+    .twit{
+        width: 30px;
+        height: 30px;
+    }
+    
+
+}
+@media(min-width:1440px){
+    body{
+        font-family: PT Sans;
+      }
+      ul{
+          display: flex;
+      }
+      .list{
+          list-style: none;
+          position: relative;
+         
+      }
+      .list:hover{
+          color: blue;
+          
+      }
+      span{
+          position: relative;
+      }
+
+      .get{
+          width: 92%;
+          height: 45px;
+          background-color: rgb(0, 132, 255);
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content:center;
+          
+          border-radius: 7px;
+        
+      }
+      
+      .get:hover{
+          color: white;
+          background-color: rgb(0, 55, 255);
+      }
+      .text1{
+          display: flex;
+          flex-direction: row;
+      }
+      .img1{
+          width: 30px;
+          height: 30px;
+          padding-left: 70px;
+          padding-right: 20px;
+      }
+      
+      
+      .list{
+          display: flex;
+          gap: 40px;
+          position: relative;
+          left: 25rem;
+          color: deepskyblue;
+      }
+      .navbar{
+          background:white;
+          
+          height: 60px;
+          width: 100%;
+          display: flex;
+          top: 0px;
+          right: 0px;
+      }
+      .java{
+          display: flex;
+          flex-direction: row;
+          background-image:  url(./image/bg.jpg);
+          color: white; 
+          height: 500px;
+          width: 100%;
+          border-style: solid;
+          position: relative;
+          right: 0px;
+          top: 0px;
+          left: 0px;
+      }
+      .info{
+          position: relative;
+          top: 60px;
+      }
+      .register{
+        font-size:0.8rem;
+      }
+      .form{
+          background-color: white;
+          position: relative;
+          left: 3pc;
+          color: black;
+          top: 55px;
+          padding: 30px;
+          border-color: red;
+          height: 350px;
+          margin-bottom: 20%;
+          width: 30%;
+      }
+      .text2{
+          padding-left: 40px;
+          position: relative;
+          top: 40px;
+          font-size: larger;
+      }
+      .firstlast{
+          display: flex;
+          flex-direction: row;
+      }
+      .firstname{
+          height: 45px;
+          width: 42%;
+      }
+      .lastname{
+          height: 45px;
+          margin-bottom: 20px;
+          width: 45%;
+      }
+      .email{
+          width: 90%;
+          height: 45px;
+          margin-bottom: 20px
+      }
+      .phonenumber{
+        margin-bottom: 20px;
+          width: 90%;
+          height: 45px;
+      }
+      .allportrait{
+          background-color: rgba(222, 219, 219, 0.868);
+          height: 53pc;
+      }
+      .der{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      img.grupic {
+        width: 100%;
+    }
+      .portrait{
+          width: 100px;
+          height: 100px;
+          border-radius: 3rem;
+      }
+      .pics{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          
+          position: relative;
+          top: 40px;
+      }
+      .portrait1{
+          width: 100px;
+          height: 100px;
+          position: relative;
+          top:5rem;
+          display: flex;
+          align-content: center;
+         border-radius: 3rem;
+      }
+      .portrait1div{
+          display: flex;
+          justify-content: center;
+      }
+      .twotext{
+          display: flex;
+          flex-direction: row;
+          position: relative;
+          top: 45px;
+          font-size: large;
+          justify-content: space-around;
+      }
+      .petertext{
+          text-align: center;
+      }
+      .josephtext{
+          text-align: center;
+      }
+      .rilwantext{
+          text-align: center;
+          position: relative;
+          top: 90px;
+      }
+      .imgthings{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+      }
+      .board{
+          position: relative;
+          top: 80px;
+      }
+      .allwrite{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          position: relative;
+          top: 80px;
+          width: 100%;
+          text-align: center;
+      }
+      .become{
+          text-align: center;
+          position: relative;
+          top: 150px;
+      }
+.pictext{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+      
+.group{
+    width: 600px;
+    height: 400px;
+}
+.get2{
+    width: 20%;
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    position: relative;
+    top: 34pc;
+    margin-left: 35px; 
+}
+.get2:hover{
+    background-color: mediumblue;
+        
+      }
+.student{
+    position: relative;
+    top: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+      .studentwork{
+          position: relative;
+          top: 18pc;
+          
+      }
+      .studentworkdiv{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+      }
+.head{
+    font-size: xx-large;    
+}
+      .line1{
+          padding-left: 40px;
+          position: relative;
+          top: 19pc;
+      }
+      
+      .line2{
+          display: flex;
+          position: relative;
+          padding-left: 50px;
+          /* top: 19pc; */
+          flex-direction: column;
+          ;
+      }
+      .page1{
+          display: flex;
+          flex-direction: row;
+          font-size: x-large;
+      }
+      .btn{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+          align-items: center;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn:hover{
+         background-color: darkblue;
+      }
+      .state{
+          display: flex;
+          justify-content: center;
+          position: relative;
+      }
+.studio{
+    position: relative;
+    padding-left: 40px;
+    width: 1200px;
+    height: 750px;
+}
+.statetext{
+    background-color: white;
+    position: relative;
+    padding: 25px;
+    top: 50px;
+    right: 15pc;
+    border-radius: 4px;
+    height: 520px;
+}
+      .stateof{
+          background-color: rgb(226, 229, 232);
+          position: relative;
+          top: 20pc;
+      }
+      .stateoftheart{
+        display: flex;
+        flex-direction: row;
+      }
+      .sometext{
+          position: relative;
+          background-color: white;
+          box-shadow: 25px;
+          bottom: 15pc;
+          left: 42pc;
+          width: 37%;
+          padding: 30px;
+          border-radius: 6px;
+          box-shadow: 10px 15px 5px #ccc;
+      }
+      .whychoose{
+        position: relative;
+          padding-left: 40px;
+          display: flex;
+          flex-direction: row;
+      }
+.grupic{
+    /* width: 50%; */
+    height: 470px;
+}
+      .listof{
+          display: flex;
+          flex-direction: column;
+      }
+      .anotext{
+          padding: 20px;
+      }
+      .careersupport{
+        position: relative;
+
+    }
+      .careertext{
+          text-align: center;
+      }
+      .smile{
+        width: 700px;
+        height: 550px;
+          padding-left: 3pc;
+          padding-top: 2pc;
+      }
+      .smilepic{
+          display: flex;
+          flex-direction: row;
+      }
+.gettext{
+    padding: 2pc;
+}
+      
+      .btn2{
+          color: white;
+          background-color: rgb(0, 55, 255);
+         justify-content: center;
+         display: flex;
+         align-items: center;
+          position: relative;
+          top: 20px;
+          width: 35%;
+          height: 45px;
+          border-radius: 4px;
+      }
+      .btn2:hover{
+         background-color: darkblue;
+      }
+      .btn3{
+          
+          color:dodgerblue;
+          background-color: white;
+         justify-content: center;
+         align-items: center;
+         display: flex;
+          position: relative;
+          width: 35%;
+          height: 40px;
+          border-radius: 4px;
+          font-size: large;
+    
+      }
+      .btn3:hover{
+          background-color: darkblue;
+          color: white;
+      }
+      .reg{
+          display: flex;
+          flex-direction: row;
+          background-color: dodgerblue;
+          width: 60%;
+          height: 200px;
+          border-radius: 8px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          /* justify-content: space-around; */
+          color: white;
+          position: relative;
+          top: 40px;
+      
+          margin: auto;
+      }
+      .te{
+          padding-top: 16px;
+      }
+      .question{
+        position: relative;
+        top: 7pc;
+      }
+      .ask{
+        position: relative;
+        /* top: 120px; */
+        text-align: center;
+      }
+    .asktext{
+        position: relative;
+        /* top: 130px; */
+        text-align: center;
+    }
+    .a5{
+        display: flex;
+        flex-direction: column;
+    }
+    .line1a{
+        position: relative;
+        /* top: 150px; */
+        height: 600px;
+        padding: 30px;
+    }
+    .line2a{
+        position: relative;
+        /* top: 160px; */
+        padding: 20px;
+    }
+    .bothq{
+        display: flex;
+        flex-direction: row;
+    }
+    .get5{
+        font-weight: 100;
+        font-size: 2.5rem;
+        font-family: open san;
+    }
+    .lastlist{
+        display: flex;
+        flex-direction: column;
+    }
+    .last1{
+        position: relative;
+        margin-top: 30pc;
+        background-color: rgb(52, 122, 212);
+        display: flex;
+        flex-direction: row;
+        height: 1400px;
+        width: 100%;
+    }
+    .lastline1{
+    background-color: rgba(255, 255, 255, 0.943);
+    width: 50%;
+    color: rgba(0, 0, 0, 0.801);
+    padding-top: 30px;
+    padding-bottom: 40px;
+    height: 1150px;
+    position: relative;
+    left: 90px;
+    top: 90px;
+    padding-left: 40px;
+    font-size: xx-large;
+
+    }
+    .lastline2{
+        color: rgba(255, 255, 255, 0.97);
+        width: 34%;
+        height: 1100px;
+        background-color:rgb(243, 64, 64);
+        padding-left: 40px;
+        position: relative;
+        left: 170px;
+        top: 60px;
+        font-size: xx-large;
+    }
+    .nat{
+        font-size: 1.7rem;
+    }
+    .nattext{
+        font-size: 1.9rem;
+    }
+    .start{
+        background-color: rgb(0, 55, 255);
+        color: white;
+        width: 80%;
+        height: 70px;
+        
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 7px;
+    }
+    .lastthing{
+        position: relative;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        flex-direction: row;
+        height: 500px;
+        gap: 10pc;
+    }
+    .log{
+        width: 100px;
+        height: 60px;
+    }
+    .tech{
+        color: white;
+        font-size: 2rem;
+    }
+    .first{
+        display: flex;
+        flex-direction: row;
+    }
+    .first2{
+    position: relative;
+    margin-bottom: 30pc;
+    width: 20%;
+    
+    }
+    .why{
+    font-size: larger;
+    padding-left: 4pc;
+    color: white;
+}
+    .row2{
+    font-size: x-large;
+    color: white;
+}
+    .in1{
+        border-radius: 4px;
+        width: 30rem;
+        height: 80px;
+    }
+    .submit{
+        background-color: blue;
+        color: white;
+        width: 30rem;
+        height: 80px;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 4px;
+    }
+    .submit:hover{
+        background-color: darkblue;
+    }
+    .w3{
+        padding-top:33px ;
+        font-size: x-large;
+    }
+.social{
+    color: white;
+    padding-top: 33px;
+    font-size: x-large;
+        
+}
+    .row3{
+    padding-left: 40px;
+    margin-top: 20pc;    
+}
+    .insta{
+        width: 60px;
+        height: 60px;
+    }
+    .face{
+        width: 60px;
+        height: 60px;
+    }
+.twit{
+    width: 60px;
+    height: 60px;
+}
+} 
+
+   
